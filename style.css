@@ -1,0 +1,111 @@
+#head1{
+  margin: 0; 
+  border:            solid;  
+  background-color:  black;
+  color:             lightgrey;
+  border-color:      black;
+  font-family:       arial;
+  font-weight:       10px;
+  font-family:       'Quicksand', sans-serif;
+}
+span{
+ color: lightgrey;
+ font-size: 30px;
+} 
+body{
+  background-color:   black;
+  width:              100%;
+  text-align: center
+} 
+#steve{
+  width:              600px;
+  padding:            10px;
+  margin:             0 auto;
+  display:            block;
+}
+#image_1{
+width:                100%;
+}
+#bio_head{
+  color:              lightgrey;
+  font-family:        'Quicksand', sans-serif;
+  text-align:         center;
+}
+#bio_p{
+  color:              lightgrey;
+  font-family:        'Quicksand', sans-serif;
+  text-align:         center;
+}
+#bio_death{
+  color:              lightgrey;
+  font-family:        'Quicksand', sans-serif;
+  text-align:         center;
+}
+#apple1{
+  display: block;
+  margin: 0 auto;
+}
+#IPHONE{
+display: block;
+margin: 0 auto;
+}
+p{
+   color:              lightgrey;
+  font-family:        'Quicksand', sans-serif;
+  text-align:         center;
+}
+#tribute{
+  display: block;
+  margin: 0 auto;
+}
+#hungry{
+  display: block;
+  margin: 0 auto;
+}
+#icon{
+  padding-top: 19px; 
+  margin: 0; 
+  height: 35px;
+  width: 35px;
+  display: inline;
+  transition: width 4s height 4s; 
+}
+#icon:hover{
+  height: 30px; 
+  width: 30px; 
+
+}
+footer{
+  padding: 40px;
+  color: lightgrey;
+  font-family:'Quicksand', sans-serif;
+}
+#icon2:hover{
+  height: 35px; 
+  width: 35px; 
+}S
+#info{
+  text-align: center;
+  color: lightgrey;
+  font-family:'Quicksand', sans-serif; 
+}
+#info2{
+  text-align: center;
+  color: lightgrey;
+  font-family:'Quicksand', sans-serif; 
+}
+#info3{
+  text-align: center;
+  color: lightgrey;
+  font-family:'Quicksand', sans-serif; 
+}
+#ul1{
+  text-align: center;
+  color: lightgrey;
+  font-family:'Quicksand', sans-serif; 
+}
+#list{
+  text-align: center;
+  color: lightgrey;
+  font-family:'Quicksand', sans-serif; 
+}
